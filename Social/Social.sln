@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social", "Social\Social.csproj", "{263F44EE-5109-4A38-8814-3EAB2273D9B7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialApi", "..\SocialApi\SocialApi\SocialApi.csproj", "{4A390FD2-F209-44F8-B8D6-2CDAB9A98CA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{263F44EE-5109-4A38-8814-3EAB2273D9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{263F44EE-5109-4A38-8814-3EAB2273D9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{263F44EE-5109-4A38-8814-3EAB2273D9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A390FD2-F209-44F8-B8D6-2CDAB9A98CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A390FD2-F209-44F8-B8D6-2CDAB9A98CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A390FD2-F209-44F8-B8D6-2CDAB9A98CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A390FD2-F209-44F8-B8D6-2CDAB9A98CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
